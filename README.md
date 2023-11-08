@@ -25,7 +25,14 @@ This script loads the iris.csv dataset, scales the input, trains the ANFIS model
 
 3. Customize the ANFIS parameters in the test.py script to fit your specific dataset and requirements.
 
-4. Dependencies:
+4. Model outputs:
+
+i) Nodes
+![Nodes Plot](output/nodes.png)
+
+
+
+5. Dependencies:
 
     NumPy
     Matplotlib
