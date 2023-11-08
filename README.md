@@ -17,3 +17,20 @@ To use the ANFIS model in your project, follow these steps:
 1. Ensure you have the required dependencies installed by running:
    ```bash
    pip install numpy matplotlib scikit-fuzzy
+2. Run the test.py script:
+  ```bash
+   python test.py
+   ```
+This script loads the iris.csv dataset, scales the input, trains the ANFIS model, and prints the total RMSE error.
+
+3. Customize the ANFIS parameters in the test.py script to fit your specific dataset and requirements.
+
+4. Dependencies:
+
+    NumPy
+    Matplotlib
+    scikit-fuzzy
+
+Feel free to explore and modify the code to suit your needs. If you have any questions or issues, please create an issue.
+
+Happy coding!
