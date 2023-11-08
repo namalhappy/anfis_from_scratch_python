@@ -30,7 +30,11 @@ This script loads the iris.csv dataset, scales the input, trains the ANFIS model
 i) Nodes
 ![Nodes Plot](anfis/output/nodes.png)
 
+ii) Nodes
+![Membership Functions](anfis/output/mfs.png)
 
+iii) Nodes
+![Nodes Plot](anfis/output/predictions.png)
 
 5. Dependencies:
 
