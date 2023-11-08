@@ -28,7 +28,7 @@ This script loads the iris.csv dataset, scales the input, trains the ANFIS model
 4. Model outputs:
 
 i) Nodes
-![Nodes Plot](/output/nodes.png)
+![Nodes Plot](anfis/output/nodes.png)
 
 
 
